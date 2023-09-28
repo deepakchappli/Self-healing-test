@@ -98,7 +98,7 @@ public class AcmeBankTests {
 
                 driver,
 
-                "ACME Bank Web App",
+                "Self Healing",
 
                 "Log into bank account",
                 
